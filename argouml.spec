@@ -12,6 +12,7 @@ Source0:	http://argouml.tigris.org/files/documents/4/0/%{name}-%{version}/ArgoUM
 # Source0-md5:	2e52f5978528c6d0cdbb85b8ee515cb7
 Source1:	%{name}.desktop
 URL:		http://argouml.tigris.org/
+BuildRequires:	unzip
 Requires:	jre
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
