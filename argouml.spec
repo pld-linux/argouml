@@ -5,7 +5,7 @@ Summary:	A UML design tool with cognitive support
 Summary(pl):	N±rzêdzie do projektowania UML z baz± poznawcz±
 Name:		argouml
 Version:	0.16.1
-Release:	1
+Release:	2
 License:	Freeware
 Group:		Applications/Engineering
 Source0:	http://argouml.tigris.org/files/documents/4/0/%{name}-%{version}/ArgoUML-%{version}.zip
