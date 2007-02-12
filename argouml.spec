@@ -2,7 +2,7 @@
 # - recompile it
 # - use libraries from separate modules, not included...
 Summary:	A UML design tool with cognitive support
-Summary(pl):	N±rzêdzie do projektowania UML z baz± poznawcz±
+Summary(pl.UTF-8):   NÄ…rzÄ™dzie do projektowania UML z bazÄ… poznawczÄ…
 Name:		argouml
 Version:	0.18.1
 Release:	1
@@ -20,9 +20,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 ArgoUML is a modelling tool that helps you do your design using UML.
 
-%description -l pl
-ArgoUML jest narzêdziem do modelowania pomagaj±cym projektowaæ
-korzystaj±c z UML.
+%description -l pl.UTF-8
+ArgoUML jest narzÄ™dziem do modelowania pomagajÄ…cym projektowaÄ‡
+korzystajÄ…c z UML.
 
 %prep
 %setup -q -c
