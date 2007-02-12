@@ -2,7 +2,7 @@
 # - recompile it
 # - use libraries from separate modules, not included...
 Summary:	A UML design tool with cognitive support
-Summary(pl.UTF-8):   Nąrzędzie do projektowania UML z bazą poznawczą
+Summary(pl.UTF-8):	Nąrzędzie do projektowania UML z bazą poznawczą
 Name:		argouml
 Version:	0.18.1
 Release:	1
